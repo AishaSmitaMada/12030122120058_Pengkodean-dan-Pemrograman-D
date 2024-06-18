@@ -1,0 +1,11 @@
+tanggal,menu_item,jumlah_pesanan,harga_total,pelanggan
+2024-01-01,Burger,2,50000,John
+2024-01-02,Fried Chicken,3,75000,Jane
+2024-01-03,French Fries,4,20000,Bob
+2024-01-04,Burger,1,25000,Alice
+2024-01-05,Fried Chicken,2,50000,Charlie
+2024-01-06,Ice Cream,5,15000,Diana
+2024-01-07,French Fries,3,15000,Edward
+2024-01-08,Ice Cream,2,6000,Fiona
+2024-01-09,Burger,3,75000,George
+2024-01-10,Fried Chicken,4,100000,Hannah
